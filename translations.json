@@ -1,0 +1,67 @@
+{
+  "en": {
+    "nav.about": "About",
+    "nav.experience": "Experience",
+    "nav.projects": "Projects",
+    "nav.skills": "Skills",
+    "nav.contact": "Contact",
+
+    "hero.greeting": "Hi, I'm",
+    "hero.designer": "UX/UI Designer",
+    "hero.engineer": "Software Engineer",
+    "hero.description": "Crafting beautiful, performant interfaces and building robust backend systems. I specialize in Go microservices and modern web technologies, bringing creative ideas to life with clean code and exceptional user experiences.",
+    "hero.view_github": "View GitHub",
+    "hero.see_projects": "See Projects",
+    "hero.get_in_touch": "Get in Touch",
+
+    "stats.years": "Years Experience",
+    "stats.projects": "Projects Completed",
+    "stats.satisfaction": "Client Satisfaction",
+
+    "footer.about": "About",
+    "footer.experience": "Experience",
+    "footer.projects": "Projects",
+    "footer.skills": "Skills",
+    "footer.contact": "Contact",
+
+    "contact.quick_call": "Quick Call"
+  },
+  "ru": {
+    "nav.about": "Обо мне",
+    "nav.experience": "Опыт",
+    "nav.projects": "Проекты",
+    "nav.skills": "Навыки",
+    "nav.contact": "Контакты",
+
+    "hero.greeting": "Привет, я",
+    "hero.designer": "UX/UI дизайнер",
+    "hero.engineer": "Инженер‑программист",
+    "hero.description": "Создаю красивые и быстрые интерфейсы и надёжные бэкенд‑системы. Специализируюсь на микросервисах на Go и современных веб‑технологиях, воплощая идеи в жизнь с чистым кодом и отличным UX.",
+    "hero.view_github": "Смотреть GitHub",
+    "hero.see_projects": "Смотреть проекты",
+    "hero.get_in_touch": "Связаться",
+
+    "stats.years": "Лет опыта",
+    "stats.projects": "Завершённых проектов",
+    "stats.satisfaction": "Удовлетворённость клиентов",
+
+    "footer.about": "Обо мне",
+    "footer.experience": "Опыт",
+    "footer.projects": "Проекты",
+    "footer.skills": "Навыки",
+    "footer.contact": "Контакты",
+
+    "contact.quick_call": "Быстрый звонок",
+
+    "about.title": "Обо мне",
+    "about.subtitle": "Кто я, что делаю и чем могу быть полезен",
+    "experience.title": "Опыт",
+    "experience.subtitle": "Хронология проектов, зоны ответственности и результаты",
+    "projects.title": "Проекты",
+    "projects.subtitle": "Подборка лучших работ с упором на UX, перфоманс и качество",
+    "skills.title": "Навыки",
+    "skills.subtitle": "Технологии, инструменты и компетенции",
+    "contact.title": "Контакты",
+    "contact.subtitle": "Связаться со мной можно любым удобным способом"
+  }
+}
